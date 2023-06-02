@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96fd8bb185d81ec49a8e98dbf3cf1323, type: 3}
+  m_Name: Bob
+  m_EditorClassIdentifier: 
+  animalName: Bob
+  description: Bob is a big fat cow
+  appearance: {fileID: 0}
+  losingHP: 1
+  attentionMax: 100
+  attention: 90.660835
+  hungerMax: 100
+  hunger: 84.43355
+  energyMax: 100
+  energy: 84.43355
+  cleanlinessMax: 100
+  cleanliness: 87.54718
+  healthMax: 100
+  health: 100
+  attRate: 0.3
+  hunRate: 0.5
+  eneRate: 0.5
+  cleanRate: 0.4
+  hpRate: 0

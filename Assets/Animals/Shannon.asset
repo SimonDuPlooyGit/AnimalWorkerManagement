@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96fd8bb185d81ec49a8e98dbf3cf1323, type: 3}
+  m_Name: Shannon
+  m_EditorClassIdentifier: 
+  animalName: Shannon
+  description: Shannon the sheep
+  appearance: {fileID: 0}
+  losingHP: 0
+  attentionMax: 75
+  attention: 68.91969
+  hungerMax: 75
+  hunger: 66.893295
+  energyMax: 75
+  energy: 70.94631
+  cleanlinessMax: 75
+  cleanliness: 72.97326
+  healthMax: 75
+  health: 75
+  attRate: 0.3
+  hunRate: 0.4
+  eneRate: 0.2
+  cleanRate: 0.1
+  hpRate: 0

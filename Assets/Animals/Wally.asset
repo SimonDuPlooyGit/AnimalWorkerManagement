@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96fd8bb185d81ec49a8e98dbf3cf1323, type: 3}
+  m_Name: Wally
+  m_EditorClassIdentifier: 
+  animalName: Wally
+  description: Wally the wacky wombat
+  appearance: {fileID: 0}
+  losingHP: 0
+  attentionMax: 125
+  attention: 0
+  hungerMax: 125
+  hunger: 0
+  energyMax: 125
+  energy: 0
+  cleanlinessMax: 125
+  cleanliness: 0
+  healthMax: 125
+  health: 0
+  attRate: 0.3
+  hunRate: 0.2
+  eneRate: 0.4
+  cleanRate: 0.3
+  hpRate: 0
